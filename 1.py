@@ -1,3 +1,5 @@
 a=3
 b=5
-print(b)
+c=6
+v=8
+print(b,v)
